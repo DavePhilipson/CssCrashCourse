@@ -100,3 +100,8 @@ a:active {
   padding: 8px;
   width: 100%;
 }
+
+.block{
+  float:left;
+  width:33.3%;
+}
